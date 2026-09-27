@@ -49,3 +49,4 @@ exclude:
   - vendor
   - README.md
   - CONTRIBUTING.md
+  - STATUS.md
