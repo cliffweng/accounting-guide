@@ -6,7 +6,7 @@ A practical study guide for reading the three financial statements — built for
 
 ## Audience
 
-Penn students in CS, stats, and econ, and Wharton Quantitative Finance master's students. The assumption is that you are analytically strong and *have never had an accounting course*. So this guide is biased toward **interview rigor on the three statements** — why a number moved, how the statements link, how to read a 10-K — and deliberately **not** toward bookkeeping drills, debits and credits mechanics, tax, or consolidation accounting.
+Written for builders and interview candidates. The assumption is that you are analytically strong and *have never had an accounting course*. So this guide is biased toward **interview rigor on the three statements** — why a number moved, how the statements link, how to read a 10-K — and deliberately **not** toward bookkeeping drills, debits and credits mechanics, tax, or consolidation accounting.
 
 If you can already post a balanced journal entry, you can skip [Journal entries, lite](topics/03-journal-entries-lite/) and start at the statements.
 
@@ -60,7 +60,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md). In short: one topic per file, keep it un
 
 These are the product locks this guide was built against — echoed here so future contributors don't accidentally relitigate them:
 
-- **Audience**: Penn CS/stats/econ + Wharton QF, targeting investment-banking and markets interviews. Not a CPA crash course, not a tax guide, not a consolidation text.
+- **Audience**: builders and interview candidates, targeting investment-banking and markets interviews. Not a CPA crash course, not a tax guide, not a consolidation text.
 - **Interviews-first, not bookkeeping-first**: three-statement fluency, not voucher-to-ledger drills. Accounting mechanics appear only where they explain a reported number.
 - **Time-boxed**: every topic is readable in 10 minutes or less. Depth is sacrificed for scannability; "further reading" links are where depth lives.
 - **Learning + interview prep in one page**: each topic pairs core concepts with interview questions, rather than splitting them into separate tracks.
